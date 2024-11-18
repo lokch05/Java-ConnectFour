@@ -1,5 +1,5 @@
 # Java-ConnectFour
-Java 21 implementation of the Connect Four game
+Java 21 implementation of the [Connect Four](https://en.wikipedia.org/wiki/Connect_Four) game
 
 ## How to run the program
 Download any version of [Java 21 SDK](https://www.oracle.com/java/technologies/javase/jdk21-archive-downloads.html/), compile the java files and run the program.
